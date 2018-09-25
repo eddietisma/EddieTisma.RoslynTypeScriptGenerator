@@ -1,6 +1,4 @@
 # RoslynTypeScriptGenerator
-Generate JavaScript with Roslyn and T4 Templates
-
 Finds methods on types deriving from 'ApiController' and creates a proxy client with all actions and models.
 
  ```csharp
